@@ -1,7 +1,8 @@
 ### 
 ### <h3 align="center"><img src = 'Banner.png'></h3>
 
-[![Spotify](https://novatorem-three-sage.vercel.app/api/spotify)](https://open.spotify.com/user/24rthDevil)
+
+&nbsp; <br> [![Spotify](https://novatorem-three-sage.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/24Shreyaskumar)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24shreyaskumar&label=Profile%20views&color=0e75b6&style=flat-square" alt="24shreyaskumar" /> </p>
 
