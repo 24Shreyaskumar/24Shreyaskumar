@@ -28,7 +28,7 @@
 
 <hr>
 
-<h3 align = "Center">👨🏻‍💻 Coding Profiles </h3>
+<h3 align = "Center">👨🏻‍💻 Coding & Other Profiles </h3>
    
 <p align = "center">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://kaggle.com/mshreyaskumarsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mshreyaskumarsharma" height="30" width="40" /></a>
@@ -41,6 +41,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/24shreyaskumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="24shreyaskumar" height="30" width="40" /></a>
  </p>
 
+<hr>
 
 
 
@@ -50,12 +51,7 @@
 
         
 
-<hr>
 
-<p align="center">
-        
-        
-</p>
 
 
 
