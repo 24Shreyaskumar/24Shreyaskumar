@@ -2,8 +2,6 @@
 ### <h3 align="center"><img src = 'Banner.png'></h3>
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=24shreyaskumar&label=Profile%20views&color=0e75b6&style=flat-square" alt="24shreyaskumar" /> </p>
-
 
 <div>
     <h2 align="center" font color = "0093AB"> 📊 Github stats </h2>
