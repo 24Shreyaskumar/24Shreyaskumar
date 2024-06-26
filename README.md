@@ -1,5 +1,5 @@
 ### 
-### <h3 align="center"><img src = 'Banner.png'></h3>
+### 
 <hr>
 
 
